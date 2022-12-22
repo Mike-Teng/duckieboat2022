@@ -2,7 +2,7 @@
 
 ## autoBox 
 
-### **rpi** : 開blueRobotic
+### rpi : blueRobotic
 a = number of autoBox  
 ```
 ssh arg@192.168.0.a0 
@@ -26,7 +26,7 @@ catkin_ws/src/duckiepond/launch/joystick_vr.launch veh:=boat
 
 (會開duckieboat_ros/joystick_control/src/joy_node_vr.py )  
 
-### **nano** : 開roboteq  
+### nano : roboteq  
 a = number of autoBox  
 ```
 ssh arg@192.168.0.a3   
