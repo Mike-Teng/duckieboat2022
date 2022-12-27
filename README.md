@@ -5,7 +5,7 @@
 ### 1. rpi : blueRobotic
 a = number of autoBox  
 ```
-ssh arg@192.168.0.a0 
+ssh kiat@192.168.0.a0 
 ```  
 repo : duckiepond-nctu  
 ```
