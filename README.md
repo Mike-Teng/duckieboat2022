@@ -22,6 +22,9 @@ set_ros_ip.sh 192.168.0.x
 ```
 roslaunch duckiepond joystick_vr.launch veh:=boat
 ```
+```
+rosrun joy joy_node
+```
 catkin_ws/src/duckiepond/launch/joystick_vr.launch veh:=boat  
 
 (會開duckieboat_ros/joystick_control/src/joy_node_vr.py )  
